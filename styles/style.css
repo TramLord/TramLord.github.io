@@ -1,0 +1,23 @@
+html {
+	font-family: 'Muli', sans-serif;
+	font-size: 20px;
+}
+padding {
+
+}
+p,li,h1 {
+  color: DimGrey;
+}
+h1 {
+	text-align: center;
+}
+p,li {
+	text-align: center;
+}
+#p1 {
+
+}
+img {
+	size: 250x250px;
+
+}
