@@ -21,3 +21,13 @@ p,li {
 	img-align: right;
 	width: 600px;
 }
+#First-a {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	background-color: teal;
+	font-weight: 750;
+}
+.head-url{
+	padding-left: 550px;
+	color: white;
+}
